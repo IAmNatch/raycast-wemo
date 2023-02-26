@@ -1,4 +1,4 @@
-# Control your Wemo Devices from raycast!
+# Control your Wemo Devices from Raycast!
 
 ## Features
 
